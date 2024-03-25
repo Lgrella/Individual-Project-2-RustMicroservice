@@ -51,8 +51,6 @@ Update the `Cargo.toml` file to reflect the required crates for this project. Th
 
 ![app2](app2.png)
 
-![app2](app2.png)
-
 ## Containerization
 
 ### Docker Build
